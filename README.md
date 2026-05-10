@@ -19,3 +19,4 @@ Trong log lần 2, tìm dòng kiểu **“Cache hit”** / **“Restored”** ch
 chmod +x run.sh
 ./run.sh
 ```
+
